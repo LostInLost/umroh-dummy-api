@@ -4,6 +4,7 @@
   "description": "Deploy JSON Server to Vercel",
   "main": "api/server.js",
   "scripts": {
+    "build": "npm install",
     "start": "node api/server.js"
   },
   "dependencies": {
